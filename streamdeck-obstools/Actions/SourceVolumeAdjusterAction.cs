@@ -61,7 +61,7 @@ namespace BarRaider.ObsTools.Actions
 
         #region Private Members
 
-        private const int DEFAULT_VOLUME_STEP = 5;
+        private const int DEFAULT_VOLUME_STEP = 3;
         private const float MINIMAL_DB_VALUE = -95.8f;
 
         private int volumeStep = DEFAULT_VOLUME_STEP;
